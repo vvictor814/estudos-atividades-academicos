@@ -14,5 +14,9 @@ Aqui está um resumo dos tópicos abordados ao longo do semestre:
 - [x] Estruturas de repetição (`enquanto/para`)
 - [ ] Vetores e Matrizes (Arrays)
 
+## Estrutura do Repositório:
+Por ora, o projeto consta apenas com uma única pasta citada logo abaixo, mas futuramente, acredito que possa acrescentar alguma voltada para projetos e notas de aula, ainda devo pensar e esperar mais para confirmação disso.
+* `/exercicios`: Listas de exercícios resolvidas em sala.
+
 ## Autor
 * **Victor Gabriel S. Silva**
